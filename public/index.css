@@ -1,0 +1,68 @@
+#namebar{
+    height: 30px;
+    width: 100%;
+    background-color: turquoise;
+    border-bottom: whitesmoke 1px solid;
+    border-radius: 10px;
+    
+
+
+}
+#adp{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+}
+body{
+    background-color: yellowgreen;
+}
+
+#container{
+ height: auto;
+width:300px;
+border: thistle 2px seashell;
+text-align: center;
+background-color: seashell;
+margin-right: 200px;
+
+padding-bottom: 20px;
+margin-left: 200px;
+margin-top: 200px;
+border-radius: 10px;
+
+
+
+
+
+}
+#email{
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+#password{
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+}
+#submit{
+    background-color: steelblue;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+#profilepic{
+    height: 50px;
+    width: 50px;
+    border: solid black 2px;
+    background-image: url(pic2.jpg);
+    margin-top:-20px ;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+
+
+}

@@ -1,0 +1,48 @@
+#namebar{
+    height: 30px;
+    width: 100%;
+    background-color: turquoise;
+    border-bottom: whitesmoke 1px solid;
+    border-radius: 10px;
+}
+
+#logout{
+    float: right;
+    background-color: cadetblue;
+    margin-right: 
+    margin-top: 
+    margin-bottom: 
+
+
+}
+#adp{
+    text-align: left;
+    font-size: larger;
+    font-family: cursive;
+}
+body{
+    background-color: yellowgreen;
+}
+.subject{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 250px;
+    border: 1px solid burlywood;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align:center;
+    font-family: cursive;}
+    .subject img{
+        height: 70px;
+        width: 120px;
+    }
+    .subject:hover{
+        height: 300px;
+        color: turquoise;
+
+    }
+
+
+
+

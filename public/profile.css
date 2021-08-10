@@ -1,0 +1,21 @@
+#namebar{
+    height: 30px;
+    width: 100%;
+    background-color: turquoise;
+    border-bottom: whitesmoke 1px solid;
+    border-radius: 10px;
+    margin-top: 0px;
+    
+
+
+}
+#adp{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+}
+body{
+    background-color: yellowgreen;
+    margin-top: 0%;
+
+}
